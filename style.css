@@ -1,0 +1,188 @@
+/* big size//////////////////////////////////////////////////////////////////////////////// */
+@media (max-width: 2280px) {
+  body {
+    background-color: cornflowerblue;
+    color: peru;
+  }
+  .titleContainer {
+    height: 40vh;
+    margin: 1em;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+     
+    
+  }
+  .picContainer {
+    height: 40vh;
+    justify-content: center;
+    display: flex;
+    margin: 1em;
+     
+  }
+  
+  .sectionContainer {
+    height: 40vh;
+    justify-content: center;
+    display: flex;
+    margin: 1em;
+    
+  }
+
+}
+
+/* ----medsize----////////////////////////////////////////////////////////////////////////  */
+
+@media (max-width: 1024px) {
+  body {
+    background-color: mediumseagreen;
+  }
+  .titleContainer {
+    border: solid burlywood;
+    height: 40vh;
+    margin: 1em;
+    font-size: 50px;
+    text-align: center;
+    color: burlywood;
+    background-image: url("https://media.gettyimages.com/id/490477926/vector/glossy-rectangle-flags-most-popular.jpg?s=612x612&w=0&k=20&c=WvHzPprS8MvHCFvWSgqUaFqRsLlhtSYCej9iAosmCps=");
+  }
+  .picContainer {
+    border: solid black;
+    height: 40vh;
+    background-image: url("https://media.gettyimages.com/id/865656130/vector/25-flags-of-world-on-soccer-balls.jpg?s=612x612&w=0&k=20&c=h-mXvcapH5EA76sntrdoRCCGVuFGShEqo3VTmYwN96k="); 
+  }
+   .sectionContainer {
+    background-image: url("https://1.bp.blogspot.com/-SXLppZb-5TA/WvsNw8PP56I/AAAAAAABj3U/z7BfuewkD4gEmPglvNTm4mxpzb1LH4Z4ACLcBGAs/s738/x-overview-1.jpg");
+   }
+ 
+  
+ 
+  /* //////////////////////////// */
+
+  #ronaldo {
+    display: none;
+  }
+  #lempard {
+    display: none;
+  }
+  #zidan {
+    display: none;
+  }
+  #pele {
+    display: none;
+  }
+  #ronaldinho {
+    display: none;
+  }
+  #beckham {
+    display: none;
+  }
+  #henry {
+    display: none;
+  }
+  /* flag */
+  #juventus {
+    display: none;
+  }
+  #chelsea {
+    display: none;
+  }
+  #bayern {
+    display: none;
+  }
+  #realmadrid {
+    display: none;
+  }
+  #man_united {
+    display: none;
+  }
+  #barselona {
+    display: none;
+  }
+  #milan {
+    display: none;
+  }
+  #jude {
+    width: 250px;
+    display: none;
+   }
+   #kroos {
+    width: 240px;
+    display: none;
+   }
+   #messi {
+    width: 270px;
+    display: none;
+   }
+   #cristiano {
+    width: 270px;
+    display: none;
+   }
+  
+   #modrich {
+    width: 270px;
+    display: none;
+   }
+   #mbappe {
+    width: 240px;
+    display: none;
+   }
+   #vini {
+    width: 250px;
+    display: none;
+   }
+  
+}
+/* --------smallize///////////////////////////////////////////////////////////   */
+
+@media (max-width: 768px) {
+  body {
+    background-color: lightcoral;
+  }
+
+  .titleContainer {
+ 
+    height: 40vh;
+    margin: 1em;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    display: flex;
+    background-image: url("https://media.gettyimages.com/id/1399772301/vector/uzbekistan-flag-background.jpg?s=612x612&w=0&k=20&c=sAezq6ayGOW-lgw_gWnxKKcwydkAjOVX98oPZ58hoSY=");
+  }
+  .picContainer {
+    border: solid black;
+    height: 40vh;
+    background-image: url("https://th.bing.com/th/id/OIP.C8H-1KOImvrf-8H0S5jKPgHaE8?w=249&h=182&c=7&r=0&o=5&dpr=1.9&pid=1.7 ");
+   
+  }
+  .logo {
+    border: solid blue;
+    height: 20vh;
+    margin: 2em;
+  }
+  .sectionContainer {
+    background-image: url("https://media.gettyimages.com/id/612547552/photo/general-view-of-the-santiago-bernabeu-stadium-in-madrid-location-madrid-spain.jpg?s=612x612&w=0&k=20&c=yXJOQBxVgPMpOq_kFucW0EZXqOcz0-npD0CnkIXK2eU=");
+  }
+   
+  
+}
+
+/* ---------------- */
+.title {
+  border: solid red;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+ 
+ 
+
+  
+ 
+
+ 
+ 
+
+
+ 
